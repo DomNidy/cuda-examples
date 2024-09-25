@@ -1,0 +1,5 @@
+/.vscode
+.vscode
+**/*.exp
+**/*.lib
+**/*.exe
